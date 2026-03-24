@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2026-03-19T19:19:06.914Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburger",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 60,
+      "createdAt": "2026-03-19T19:12:06.914Z"
+    },
+    {
+      "id": 3,
+      "description": "Viagem",
+      "type": "outcome",
+      "category": "Lazer",
+      "price": 2000,
+      "createdAt": "2026-03-19T19:12:06.914Z"
+    },
+    {
+      "description": "Café",
+      "category": "Venda",
+      "price": 30,
+      "type": "income",
+      "createdAt": "2026-03-20T18:56:31.694Z",
+      "id": 4
+    },
+    {
+      "description": "Pastel",
+      "category": "Alimentação",
+      "price": 5,
+      "type": "outcome",
+      "createdAt": "2026-03-20T19:19:01.537Z",
+      "id": 5
+    },
+    {
+      "description": "Celular",
+      "category": "Gastos pessoais",
+      "price": 2000,
+      "type": "outcome",
+      "createdAt": "2026-03-21T00:54:38.043Z",
+      "id": 6
+    }
+  ]
+}
